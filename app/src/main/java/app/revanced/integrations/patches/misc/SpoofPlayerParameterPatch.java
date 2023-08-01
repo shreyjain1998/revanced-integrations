@@ -16,7 +16,7 @@ import app.revanced.integrations.utils.LogHelper;
 public class SpoofPlayerParameterPatch {
 
     /**
-     * Target player parameters.
+     * Target player parameters
      */
     private static final String[] PLAYER_PARAMETER_WHITELIST = {
             "YAHI", // Autoplay in feed
