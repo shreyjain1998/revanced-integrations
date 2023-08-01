@@ -1,3 +1,10 @@
+# [0.115.0](https://github.com/shreyjain1998/revanced-integrations/compare/v0.114.10...v0.115.0) (2023-08-01)
+
+
+### Features
+
+* **youtube/spoof-player-parameters:** revert commit ([a608642](https://github.com/shreyjain1998/revanced-integrations/commit/a6086420ae37b19d56aea590c3c916a6776d9403))
+
 # [0.97.0](https://github.com/revanced/revanced-integrations/compare/v0.96.2...v0.97.0) (2023-02-14)
 
 
